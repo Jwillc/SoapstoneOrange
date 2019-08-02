@@ -18,7 +18,7 @@ The app uses Google Maps API's and Firebase to store and sync data.
 
 # Why do I need an account?
 
-In order to keep track of which messages belong to which users we require that users create an account. No information will be shared and it's completely okay for users to use fake credentials signing up. We do not require email varification. So user can use a fake email and password to use the app, although they should remember the login for signing back in later.
+In order to keep track of which messages belong to which users we require that users create an account. No information will be shared and it's completely okay to use fake credentials when signing up. We do not require email varification.
 
 # Progress
 
