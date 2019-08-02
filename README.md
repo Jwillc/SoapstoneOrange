@@ -12,6 +12,8 @@ In the app users can leave soapstone like messages in the real world using the b
 
 Users can only read messages when they're close enough in the real world from where the message was created and placed. Messages can be rated up or down and the app will keep a list of all the messages users have interacted with, as well as a list of all the users created messages and it's ratings.
 
+Ratings a permanent, users can not rate their own messages but they can delete them. To avoid over clustering the map with Soapstone messages, users will only be able to place one message within a given area at a time. 
+
 The app uses Google Maps API's and Firebase to store and sync data. 
 
 # Why do I need an account?
