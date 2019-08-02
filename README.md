@@ -10,6 +10,8 @@ Soapstone Orange is an app inspired by the Dark Souls "Soapstone" messaging syst
 
 In the app users can leave soapstone like messages in the real world using the built in message builder similar to that in Dark Souls. Messages like "I did it!" on top of a mountain, or funny messages like "Resignation Ahead" while at work.
 
+Users can only read messages when they're close enough in the real world from where the message was created and placed. Messages can be rated up or down and the app will keep a list of all the messages users have interacted with, as well as a list of all the users created messages and it's ratings.
+
 The app uses Google Maps API's and Firebase to store and sync data. 
 
 # Why do I need an account?
