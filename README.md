@@ -22,7 +22,11 @@ In order to keep track of which messages belong to which users we require that u
 
 # Progress
 
-The app is very early in open beta. I plan to add many more features and improve the existing one's as needed. Currently I am looking into adding a notification system for when a user's message gets rated they will be notified. Adding this feature and testing it is the primary focus at the moment. 
+We have notifications! Using Firebase fictions users will now be notified when one of their messages gets rated. This will work even if the app is closed.
+
+Now considering adding an achievements system. Example: User places a message at high elevation, they will receive the "Sky High" achievement. Achievements like this based on location, I think that would be fun.
+
+Also need to deal with app crashes.
 
 # Feedback 
 
