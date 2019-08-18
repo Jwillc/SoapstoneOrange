@@ -22,7 +22,7 @@ In order to keep track of which messages belong to which users we require that u
 
 # Progress
 
-We have notifications! Using Firebase fictions users will now be notified when one of their messages gets rated. This will work even if the app is closed.
+We have notifications! Using Firebase functions users will now be notified when one of their messages gets rated. This will work even if the app is closed.
 
 Now considering adding an achievements system. Example: User places a message at high elevation, they will receive the "Sky High" achievement. Achievements like this based on location, I think that would be fun.
 
